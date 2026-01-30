@@ -1,74 +1,97 @@
-# 👋 Hi, I’m Aliya Shaikh
+<!-- Animated Header -->
+<h1 align="center">
+  Hi, I'm Aliya Shaikh
+</h1>
 
-I’m a **Software Engineer** working on **production-scale web and system-driven applications** using **Django, React, and Java**.
-
-I enjoy building **scalable, secure, and maintainable systems** — especially backend-heavy platforms where architecture, reliability, and performance matter more than just features.
-
----
-
-## 🧠 What I Work On
-
-- Backend development with **Python (Django, Django REST Framework)**
-- Full-stack development using **React** for clean, responsive UIs
-- **Java** for application logic and Android-based projects
-- Designing and consuming **RESTful APIs**
-- **Role-Based Access Control (RBAC)** & admin / super-admin systems
-- Secure authentication flows (JWT, OTP, audit logs)
-- Relational database design & optimization (**PostgreSQL / MySQL**)
-- Debugging and performance improvements across frontend & backend
-- Basic deployment & infrastructure setup (**Nginx, cloud-ready environments**)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineer;Django+%7C+React+%7C+Java;Building+Scalable+Systems;Backend+%26+Full-Stack+Developer" />
+</h3>
 
 ---
 
-## 🚀 Current Focus
+## 🧠 About Me
 
-- Building **SaaS & ERP platforms** with modular architecture
-- Writing clean, maintainable backend logic
-- Improving system design thinking and scalability
-- Exploring **Java & Android development** alongside backend systems
+💻 **Software Engineer** working on **production-grade SaaS & ERP platforms**  
+⚙️ Focused on **system design, scalability, and secure backend development**  
+🚀 Passionate about turning complex requirements into reliable systems  
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-Python, Java, JavaScript
-
-**Backend:**  
-Django, Django REST Framework, REST APIs
-
-**Frontend:**  
-React, HTML5, CSS3, Tailwind
-
-**Databases:**  
-PostgreSQL, MySQL
-
-**Tools & Infra:**  
-Git, GitHub, Nginx, Linux, Firebase (basic)
+I primarily work with **Django, React, and Java**, building applications where **architecture matters more than just features**.
 
 ---
 
-## 📌 Projects
+## ⚙️ Tech Stack
 
-Here you’ll find repositories related to:
-- SaaS & ERP systems
-- Admin and role-based platforms
-- E-commerce applications
-- Task & workflow management systems
-- Learning projects in Java & Android
+### 👩‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-Each project focuses on **real-world structure**, not just demos.
+### 🛠 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-4F46E5?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄 Databases & Infra
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 What I’m Building
 
-- 💼 LinkedIn: https://www.linkedin.com/in/aliya-m-shaikh/
-- 💻 GitHub: https://github.com/<your-username>
+✨ **SaaS & ERP Platforms**  
+🔐 **RBAC, permissions, admin & super-admin systems**  
+📡 **REST APIs for web & mobile clients**  
+📊 **Scalable database-backed applications**  
+📱 **Java & Android learning projects**
 
-I’m always open to:
-- Software engineering roles  
-- Backend / full-stack collaborations  
-- Technical discussions and learning opportunities  
+---
 
-Thanks for stopping by! 🚀
+## 📂 Featured Projects
+
+🟣 **ERP & SaaS Systems** – Modular, scalable, secure  
+🟣 **E-Commerce Platforms** – Admin-driven workflows  
+🟣 **ARMC Platform** – Nationwide competition system  
+🟣 **Task & Workflow Management Tools**
+
+Each project emphasizes **real-world architecture**, not just demos.
+
+---
+
+## 📈 GitHub Stats (Optional but Nice)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+##  Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/aliya-m-shaikh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aliya%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AliyaShaikh-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+✨ *Code with clarity. Build with purpose.*
